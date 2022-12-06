@@ -24,7 +24,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/cosmos/rosetta-sdk-go/types"
 )
 
 func TestNew(t *testing.T) {
