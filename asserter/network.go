@@ -17,7 +17,7 @@ package asserter
 import (
 	"fmt"
 
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/cosmos/rosetta-sdk-go/types"
 )
 
 // SubNetworkIdentifier asserts a types.SubNetworkIdentifier is valid (if not nil).
