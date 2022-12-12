@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/cosmos/rosetta-sdk-go/types"
+	"github.com/coinbase/rosetta-sdk-go/types"
 )
 
 const (
