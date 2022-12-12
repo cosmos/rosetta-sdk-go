@@ -1,8 +1,19 @@
-c.out
-coverage.html
+# OS
+.DS_Store
+*.swp
+*.swo
+*.swl
+*.swm
+*.swn
+*.pyc
+.idea
+.vscode
 
-examples/server/server
-examples/client/client
-examples/fetcher/fetcher
+# Build
+vendor
+build
+dist
 
-.idea/
+# Go
+go.work
+go.work.sum
